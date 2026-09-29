@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-reverse-question-inversion
-description: "Place the user's focal entity in the opening subject position of the response." Use this when working on fitzpatrick reverse question inversion.
+description: "Place the user's focal entity in the opening subject position of the response. Use this when working on fitzpatrick reverse question inversion."
 category: "Writing & Communication"
 triggers:
   - "reverse question inversion"
