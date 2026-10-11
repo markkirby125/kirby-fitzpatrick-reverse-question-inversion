@@ -9,7 +9,7 @@ triggers:
   - "direct answer"
   - "user entity alignment"
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
